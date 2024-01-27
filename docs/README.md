@@ -1,2 +1,2 @@
-# guillermogranados.github.io
-This is my personal portfolio to share and showcase my projects.
+# Guillermo C. Granados Garcia 
+Welcome to my personal site where I share and showcase my projects.
