@@ -23,4 +23,4 @@ I offer a range of statistical consulting services tailored to meet the unique n
 5. **Training and Workshops**
    - Provide training sessions to enhance your team's statistical skills.
 
-If you have specific needs or questions, feel free to [contact me](/contact) to discuss how I can assist you.
+If you have specific needs or questions, feel free to [contact me](/guillermogranados.github.io/contact) to discuss how I can assist you.
