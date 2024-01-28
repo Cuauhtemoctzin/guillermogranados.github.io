@@ -7,7 +7,7 @@ title: "The AR(2) model"
 
 Below is the embedded Shiny app:
 
-<iframe src="https://cuauhtemoctzin.shinyapps.io/flexar2sims/" width="100%" height="300"></iframe>
+<iframe src="https://cuauhtemoctzin.shinyapps.io/flexar2sims/" width="50%" height="300"></iframe>
 
 Feel free to interact with the Shiny app above.
 
