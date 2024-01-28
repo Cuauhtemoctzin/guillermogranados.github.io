@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "first_post"
-date: 2024-01-28 00:35:00 -0000
+date: 2024-01-28
 categories: Tests Start
 ---
 
