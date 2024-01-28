@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-
+[Back to Home](/guillermogranados.github.io/)
 ## Hi, I'm Guillermo C. Granados Garcia
 
 I am passionate and dedicated to helping businesses and researchers make data-driven decisions with a background in Bayesian Statistics and Risk modeling. I specialize in stochastic simulation, time series analysis, and periodicity analysis.
@@ -50,4 +50,6 @@ Business Intelligence Analyst
 - ENAR Distinguished Student Paper Award for the paper ``Modeling brain waves as a mixture of latent processes" - March 2020.
 
 - SAS Scolarship Mexico - August 2012.
+
+[Back to Home](/guillermogranados.github.io/)
 
