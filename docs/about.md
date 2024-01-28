@@ -5,9 +5,9 @@ permalink: /about/
 ---
 
 
-## Hi, I'm Guillermo C. Granados Garcia 👋
+## Hi, I'm Guillermo C. Granados Garcia
 
-I am a passionate and experienced statistical consultant dedicated to helping businesses and researchers make data-driven decisions. With a background in Bayesian Statistics, Risk modeling, and time series analysis, I specialize in scenario simulations, and periodicity analysis.
+I am passionate and dedicated to helping businesses and researchers make data-driven decisions with a background in Bayesian Statistics and Risk modeling. I specialize in stochastic simulation, time series analysis, and periodicity analysis.
 
 ### Education
 
@@ -51,7 +51,3 @@ Business Intelligence Analyst
 
 - SAS Scolarship Mexico - August 2012.
 
-
-
-
-I am committed to delivering high-quality statistical solutions to my clients. Let's collaborate to turn your data into actionable insights!
