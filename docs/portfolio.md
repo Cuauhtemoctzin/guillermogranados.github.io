@@ -7,6 +7,7 @@ permalink: /portfolio/
 ## Data Analysis Projects
 
 ### Project 1: Brain waves analysis via a non-parametric bayesian mixture of autoregressive kernels.
+![alt text](/images/shiftedseriesalloct2021.png)
 
 - **Description:** The primary contribution of the BMARD method is to extract information from the data to provide highly specific frequency information about spectral density function. It gives the estimated number of spectral components (peaks) and provides precise identification of the dominant frequencies where the SDF attains localized peaks. It also gives the corresponding spread (bandwidth) for each of the spectral peaks that were identified.
 - **Skills Used:** Spectral density estimation; Bayesian nonparametrics; Dirichlet process; Markov Chain Monte Carlo.
@@ -15,6 +16,7 @@ permalink: /portfolio/
 [Link to Project 1](https://www.sciencedirect.com/science/article/pii/S0167947321002437)
 
 ### Project 2: Bayesian Nonparametric Multivariate Mixture of Autoregressive Processes with Application to Brain Signals.
+![alt text](/images/CausalitySketchmodel.png)
 
 - **Description:** MBMARD is a novel Bayesian non-parametric method that employs the spectral densities of an AR(2) as an unimodal kernel that decomposes a multivariate time series into latent stochastic processes.
 - **Skills Used:** Markov chain Monte Carlo; signal separation; spectral matrix estiamtion; Time series clustering.
