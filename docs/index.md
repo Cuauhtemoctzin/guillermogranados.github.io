@@ -9,4 +9,4 @@ Here, I share and showcase my projects.
 
 ## Navigation
 
-- [About Me](/about)  - [Services](/services)  - [Portfolio](/portfolio)  - [Contact](/contact)
+[About Me](/about/)    [Services](/services/)    [Portfolio](/portfolio/)    [Contact](/contact/)
