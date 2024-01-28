@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-
+[Back to Home](/guillermogranados.github.io/)
 ## Get in Touch
 
 Feel free to reach out if you have any questions, inquiries, or if you would like to discuss a potential project. I'm here to help!
