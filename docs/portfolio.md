@@ -3,7 +3,7 @@ layout: page
 title: Portfolio
 permalink: /portfolio/
 ---
-
+[Back to Home](/guillermogranados.github.io/)
 ## Data Analysis Projects
 
 ### Project 1: Brain waves analysis via a non-parametric bayesian mixture of autoregressive kernels.
@@ -27,3 +27,6 @@ permalink: /portfolio/
 
 
 For a more comprehensive view of my work, visit my [GitHub repository](https://github.com/Cuauhtemoctzin).
+
+[Back to Home](/guillermogranados.github.io/)
+
