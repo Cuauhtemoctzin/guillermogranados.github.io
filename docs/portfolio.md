@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Portfolio
+permalink: /portfolio/
 ---
 
 ## Data Analysis Projects
