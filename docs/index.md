@@ -3,9 +3,8 @@ layout: default
 title: Home
 ---
 
-# Welcome to my personal site
-
-Here, I share and showcase my projects.
+# Welcome
+Let’s turn your data into actionable insights.
 
 ## Navigation
 
