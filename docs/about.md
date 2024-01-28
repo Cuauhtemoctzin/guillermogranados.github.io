@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-permalink: /guillermogranados.github.io/about/
+permalink: /about/
 ---
 
 
