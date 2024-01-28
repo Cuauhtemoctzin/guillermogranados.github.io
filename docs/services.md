@@ -3,6 +3,7 @@ layout: page
 title: Services
 permalink: /services/
 ---
+[Back to Home](/guillermogranados.github.io/)
 
 ## Statistical Consulting Services
 
