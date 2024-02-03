@@ -13,4 +13,4 @@ title: Home
 
 People in conferences ask me about this simple model I chose as a base for my models, the AR(2). Check out my latest post for a detailed explanation:
 
-[The AR(2) model](/_posts/2024-01-28-AR2dashboard.md)
+[The AR(2) model](/guillermogranados.github.io/_posts/2024-01-28-AR2dashboard.md)
