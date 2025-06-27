@@ -19,12 +19,6 @@ The site is built as a minimal, fast-loading, mobile-friendly HTML page and is h
 - Deployed via GitHub Pages
 - Minimal custom styling for speed and simplicity
 
-## 📂 File Structure
-.
-├── index.html # Main page
-├── /assets/ # (Optional) folder for future CSS or images
-└── README.md # This file
-
 
 ## 🧑‍💻 Reuse or Fork
 
